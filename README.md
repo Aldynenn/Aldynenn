@@ -18,8 +18,8 @@
 
 A support néhány válasza arra, hogy miért nincs adás és/vagy Internet elérés:
 
-> **Nagyon esik az eső**
+> **"Az erős szél miatt"**
 
-> **Az erős szél miatt**
+> **"Nagyon esik az eső"**
 
-> **Ellőtték a vadászok fácánozás közben az optikai kábelt *(a kedvencem)***
+> **"Ellőtték a vadászok fácánozás közben az optikai kábelt *(a kedvencem)*"**
