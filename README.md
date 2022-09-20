@@ -22,4 +22,4 @@ A support néhány válasza arra, hogy miért nincs adás és/vagy Internet elé
 
 > **"Nagyon esik az eső"**
 
-> **"Ellőtték a vadászok fácánozás közben az optikai kábelt *(a kedvencem)*"**
+> **"Ellőtték a vadászok fácánozás közben az optikai kábelt"** *(a kedvencem)*
